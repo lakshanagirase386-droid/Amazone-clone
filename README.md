@@ -1,2 +1,2 @@
 # Amazone-clone
-My Project Amazone clonecreated using html and css 
+My Project Amazone clone created using html and css 
